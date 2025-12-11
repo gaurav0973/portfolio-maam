@@ -58,7 +58,12 @@ export const FEATURED_PROJECTS = [
   },
 ];
 
-export const PROJECTS_DATA = [];
+export const PROJECTS_DATA: {
+  title: string;
+  description: string;
+  technology: string[];
+  link: string;
+}[] = [];
 
 export const EDUCATION_DATA = [
   {
