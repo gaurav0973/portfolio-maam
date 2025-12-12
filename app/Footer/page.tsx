@@ -13,7 +13,7 @@ function Footer() {
           </div>
           <div>
             <Link
-              href="https://github.com/gaurav0973/my-portfolio"
+              href="https://github.com/GITSHUBROHI"
               target="_blank"
               rel="noopener noreferrer"
               className="underline hover:text-slate-700 dark:hover:text-gray-400 transition"
