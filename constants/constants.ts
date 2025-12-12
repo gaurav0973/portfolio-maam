@@ -3,9 +3,10 @@
 export const NAME = "ROHINI SINGH";
 export const BIO =
   "Aiming to achieve a challenging and successful career where I can make a significant contribution using my innovative ideas, knowledge, skills, and experience for the development and growth of the organization.";
-export const RESUME_URL = "#";
+export const RESUME_URL = "https://docs.google.com/document/d/12tzyxz5hVxYI9iSd3nOnjUFstB2J3fNM/edit?rtpof=true&sd=true&pli=1";
 export const SOCIAL_LINKS = [
   { name: "Email", url: "mailto:rohinisingh21oct@gmail.com", icon: "mail" },
+  { name: "LinkedIn", url: "https://www.linkedin.com/in/rohini-singh-6904b9206/", icon: "linkedin" },
 ];
 export const EMAIL = "rohinisingh21oct@gmail.com";
 export const PHONE = "07018306056";
